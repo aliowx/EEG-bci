@@ -63,6 +63,16 @@ files = [
 vine = ">=5.0.0,<6.0.0"
 
 [[package]]
+name = "ann-visualizer"
+version = "2.5"
+description = "A python library for visualizing Neural Networks"
+optional = false
+python-versions = "*"
+files = [
+    {file = "ann_visualizer-2.5.tar.gz", hash = "sha256:8107bc683adc14eaa184973ca150a28feba02f53ac527ce787669b217e1cb1b0"},
+]
+
+[[package]]
 name = "annotated-types"
 version = "0.7.0"
 description = "Reusable constraint types to use with typing.Annotated"
@@ -4532,4 +4542,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "82fed5df85d9c66592fb44b65f8643371875e6be41e44805b1b3494a754b152d"
+content-hash = "e6dde78381a9d2b40a7617682e73ce9f28c7dc6f09f216523ebecef367fa8228"
