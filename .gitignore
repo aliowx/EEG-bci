@@ -131,5 +131,8 @@ dmypy.json
 .pyre/
 
 .DS_Store
+<<<<<<< HEAD
 torch-2.5.1+cu121-cp312-cp312-linux_x86_64.whl
 *.whl
+=======
+>>>>>>> 98ff85719e18042214929cdc3cef0a96df012d6d
