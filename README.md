@@ -31,9 +31,9 @@
 
 [check the model](photo/model.png).
 
-### Dashboard Login
+### Dashboard
 
-![API docs](photo/app_ML.png)
+![API docs](photo/Front.png)
 
 
 ### Interactive API Documentation
