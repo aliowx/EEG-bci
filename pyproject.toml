@@ -43,6 +43,8 @@ ann-visualizer = "^2.5"
 pandas = "2.0.3"
 numpy = "1.23.5"
 tensorflow = {path = "/home/ali/Downloads/tensorflow-2.12.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"}
+huggingface-hub = "^0.33.2"
+transformers = "^4.53.1"
 
 
 [tool.poetry.group.dev.dependencies]
