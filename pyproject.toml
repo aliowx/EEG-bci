@@ -50,6 +50,12 @@ transformers = "^4.53.1"
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
 
+
+[[tool.poetry.source]]
+name = "nvidia"
+url = "https://pypi.ngc.nvidia.com"
+priority = "primary"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
