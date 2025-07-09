@@ -3,3 +3,9 @@ from app.core.middleware.get_accept_language_middleware import  _request_accept_
 
 
 from app.utils.message_codes import MessageCodes
+
+
+
+class TestMessageCodes:
+    @pytest.mark.asyncio
+    async def test_accept_language_en(self)->None:...
