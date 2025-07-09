@@ -9,7 +9,7 @@ from app.utils.message_codes import MessageCodes
 class TestMessageCodes:
     
     @pytest.mark.asyncio
-    async def test_accept_language_en(self)-> None:
+    async def test_accept_language(self)-> None:
         test_case = "da, en-gb;q=0.8,"
         _request_accept_language_var.set(test_case)
         
