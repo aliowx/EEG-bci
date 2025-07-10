@@ -1,0 +1,6 @@
+artifact_location: file:///home/ali/Desktop/data-analysis/notebook/EEG/mlruns/934273659168685292
+creation_time: 1752172904642
+experiment_id: '934273659168685292'
+last_update_time: 1752172904642
+lifecycle_stage: active
+name: EEG_CNN_Experiment

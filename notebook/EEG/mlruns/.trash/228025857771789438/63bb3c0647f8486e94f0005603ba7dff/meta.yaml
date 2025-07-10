@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ali/Desktop/data-analysis/notebook/EEG/mlruns/228025857771789438/63bb3c0647f8486e94f0005603ba7dff/artifacts
+deleted_time: 1752173574785
+end_time: 1752172726369
+entry_point_name: ''
+experiment_id: '228025857771789438'
+lifecycle_stage: deleted
+run_id: 63bb3c0647f8486e94f0005603ba7dff
+run_name: vaunted-lark-859
+run_uuid: 63bb3c0647f8486e94f0005603ba7dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752172726280
+status: 4
+tags: []
+user_id: ali

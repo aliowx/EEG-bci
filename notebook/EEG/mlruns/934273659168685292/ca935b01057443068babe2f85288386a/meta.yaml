@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ali/Desktop/data-analysis/notebook/EEG/mlruns/934273659168685292/ca935b01057443068babe2f85288386a/artifacts
+end_time: 1752173438420
+entry_point_name: ''
+experiment_id: '934273659168685292'
+lifecycle_stage: active
+run_id: ca935b01057443068babe2f85288386a
+run_name: clumsy-grouse-817
+run_uuid: ca935b01057443068babe2f85288386a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752172904677
+status: 3
+tags: []
+user_id: ali
