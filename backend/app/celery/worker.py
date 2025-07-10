@@ -1,7 +1,7 @@
 import logging 
 import math 
 import random
-from datetime import datetime, timedelta, UTC
+from datetime import datetime, timedelta
 from app.core.celery_app import DatabaseTask, celery_app
 import pickle
 import pandas as pd
