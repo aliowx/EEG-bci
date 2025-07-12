@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ali/Desktop/data-analysis/notebook/EEG/mlruns/934273659168685292/07dd1349ba5f44a9bf39034bc12ecb2c/artifacts
+end_time: 1752346953071
+entry_point_name: ''
+experiment_id: '934273659168685292'
+lifecycle_stage: active
+run_id: 07dd1349ba5f44a9bf39034bc12ecb2c
+run_name: caring-deer-356
+run_uuid: 07dd1349ba5f44a9bf39034bc12ecb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752346952751
+status: 4
+tags: []
+user_id: ali
