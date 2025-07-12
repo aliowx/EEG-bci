@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ali/Desktop/data-analysis/notebook/EEG/mlruns/934273659168685292/bfb131d5e73a47499e039243be2e24af/artifacts
+end_time: 1752346793746
+entry_point_name: ''
+experiment_id: '934273659168685292'
+lifecycle_stage: active
+run_id: bfb131d5e73a47499e039243be2e24af
+run_name: dashing-stork-469
+run_uuid: bfb131d5e73a47499e039243be2e24af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752346793515
+status: 4
+tags: []
+user_id: ali
