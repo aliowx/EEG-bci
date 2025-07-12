@@ -8,4 +8,5 @@ from test.utils.utils import random_lower_string, random_email
 
 
 
-class TestModel:...
+class TestModel:
+    async def Test_model_input()->None:...
