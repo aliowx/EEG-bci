@@ -26,4 +26,9 @@ class TestUtils:
         assert response.status_code == 500
         log_record = await crud.request_log.get_by_tracker_id(
             db=db, tracker_id=tracker_id
+            
         )
+        
+        assert log_record != None
+        assert log_record.tracker_id == tracker_id
+        assert log_record.processing_time != None
